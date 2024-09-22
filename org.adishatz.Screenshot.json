@@ -48,7 +48,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/gnumdk/screenshot.git",
-                    "tag": "0.7.0"
+                    "tag": "0.7.1"
                 }
             ]
         }
