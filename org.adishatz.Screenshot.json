@@ -1,7 +1,7 @@
 {
     "app-id" : "org.adishatz.Screenshot",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "48",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "org.adishatz.Screenshot",
     "finish-args" : [
@@ -36,7 +36,7 @@
             {
               "type": "git",
               "url": "https://github.com/flatpak/libportal.git",
-              "tag": "0.7.1"
+              "tag": "0.9.1"
             }
           ]
         },
